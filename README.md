@@ -1,3 +1,4 @@
 # gitpractice
 
-## this is some code that i coded codally
+## I wrote this wrote wrotally
+git 
